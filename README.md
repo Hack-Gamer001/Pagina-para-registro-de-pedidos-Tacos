@@ -13,3 +13,6 @@ inicio de sesion como mesero
 
 ![image](https://github.com/Hack-Gamer001/Pagina-para-registro-de-pedidos-Tacos/assets/119648000/eb4bd5f6-3a93-46d2-925a-fdf9ea666f40)
 
+
+
+https://drive.google.com/file/d/1QGbLFfHFK2I59farbw4LZJ8m6HaeB5Fe/view?usp=sharing
