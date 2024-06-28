@@ -1,4 +1,4 @@
-Inicio de sesion coo gerente
+Inicio de sesion como gerente
 ![image](https://github.com/Hack-Gamer001/Pagina-para-registro-de-pedidos-Tacos/assets/119648000/9b24f931-22ee-4d30-8dd6-ad8a43ebf33d)
 
 tablas
@@ -11,4 +11,5 @@ inicio de sesion como taquero y cajero
 inicio de sesion como mesero
 ![image](https://github.com/Hack-Gamer001/Pagina-para-registro-de-pedidos-Tacos/assets/119648000/00ee33aa-63fa-4fa7-a7fe-ba870becafb5)
 
-![image](https://github.com/Hack-Gamer001/Pagina-para-registro-de-pedidos-Tacos/assets/119648000/7a4212e0-583f-4b78-abdc-0f03e3b7be54)
+![image](https://github.com/Hack-Gamer001/Pagina-para-registro-de-pedidos-Tacos/assets/119648000/eb4bd5f6-3a93-46d2-925a-fdf9ea666f40)
+
